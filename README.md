@@ -4,6 +4,8 @@
 
 - useReducer and state management
 - useEffect
+- data fetch
+- loading question from fake API
 - component composition and reusability
 
 ## Screenshots
